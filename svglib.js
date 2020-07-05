@@ -89,3 +89,4 @@ function circle(cx, cy, r) {
 // this.setFill = function(colour) {
 //     document.getElementById(this.id).setAttributeNS(null, 'fill', colour);
 // }
+//Test fuer git
