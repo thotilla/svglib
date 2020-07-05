@@ -31,69 +31,6 @@ function circle(cx, cy, r) {
     //this.id = 'idnew';
     //this.testid = getSvgId();
 
-    //Presentation attributes
-    this.alignment-baseline = "";
-    this.baseline-shift = "";
-    this.clip = "";
-    this.clip-path = "";
-    this.clip-rule = "";
-    this.color = "";
-    this.color-interpolation = "";
-    this.color-interpolation-filters = "";
-    this.color-profile = "";
-    this.color-rendering = "";
-    this.cursor = "";
-    this.direction = "";
-    this.display = "";
-    this.dominant-baseline = "";
-    this.enable-background = "";
-    this.fill = "";
-    this.fill-opacity = "";
-    this.fill-rule = "";
-    this.filter = "";
-    this.flood-color = "";
-    this.flood-opacity = "";
-    this.font-family = "";
-    this.font-size = "";
-    this.font-size-adjust = "";
-    this.font-stretch = "";
-    this.font-style = "";
-    this.font-variant = "";
-    this.font-weight = "";
-    this.glyph-orientation-horizontal = "";
-    this.glyph-orientation-vertical = "";
-    this.image-rendering = "";
-    this.kerning = "";
-    this.letter-spacing = "";
-    this.lighting-color = "";
-    this.marker-end = "";
-    this.marker-mid = "";
-    this.marker-start = "";
-    this.mask = "";
-    this.opacity = "";
-    this.overflow = "";
-    this.pointer-events = "";
-    this.shape-rendering = "";
-    this.stop-color = "";
-    this.stop-opacity = "";
-    this.stroke = "";
-    this.stroke-dasharray = "";
-    this.stroke-dashoffset = "";
-    this.stroke-linecap = "";
-    this.stroke-linejoin = "";
-    this.stroke-miterlimit = "";
-    this.stroke-opacity = "";
-    this.stroke-width = "";
-    this.text-anchor = "";
-    this.text-decoration = "";
-    this.text-rendering = "";
-    this.unicode-bidi = "";
-    this.visibility = "";
-    this.word-spacing = "";
-    this.writing-mode = "";
-
-
-
     //Methode zur Erzeugung eines Kreises
     //create mit createElement und setAttribute funktioniert nicht
     //man muss createElementNS und setAttributeNS verwenden und svgns definieren
